@@ -1,5 +1,6 @@
-#Notas
-´´´
-Para instalar paquetes y dependencias:
+# Notas
+
+Esta es mi primera app de react
+
+# Para instalar paquetes y dependencias:
 yarn install
-´´´
